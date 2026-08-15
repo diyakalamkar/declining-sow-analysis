@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+matplotlib
+seaborn
+plotly
+streamlit
+lifelines        # for card-closure survival analysis (optional stretch)
+pyarrow
